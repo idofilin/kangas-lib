@@ -8,7 +8,7 @@ and is already useful. However, for convenience the core
 functionality is extended in a modular way:
 
 - `kangas.js` -- extends the graphics context object defined in
-  core, to include handling of touch/mouse events, cleanup before
+  `kangas-core.js`, to include handling of touch/mouse events, cleanup before
   page unload, and fullscreen requests.
 
 - `kangas-transforms.js` and `kangas-constants.js` -- some 3D math
