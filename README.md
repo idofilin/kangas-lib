@@ -1,5 +1,5 @@
 # kangas-lib
-A javascript helper library for writing interactive WebGL apps.
+Legacy javascript helper library for writing interactive WebGL apps.
 
 The library is built around a single core file `kangas-core.js`
 that defines wrapper objects for WebGLRenderingContext,
