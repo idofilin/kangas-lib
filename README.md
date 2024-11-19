@@ -47,5 +47,5 @@ object (named `Kangas` by default), which is the constructor for
 the graphics context wrapper object, mentioned above.
 
 Examples of WebGL apps using the library are available at 
-http://ido.filin.fi/showcase.html and
+http://sci.filin.fi/showcase.html and
 https://github.com/idofilin/webgl-showcase.
